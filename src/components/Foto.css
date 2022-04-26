@@ -1,0 +1,10 @@
+.foto {
+    height: 100vh;
+    background: no-repeat center center/cover;
+}
+
+.foto:before {
+    content: '';
+    height: 100%;
+    position: absolute;
+}

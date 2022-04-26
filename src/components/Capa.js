@@ -12,7 +12,7 @@ const Capa = () => {
   };
 
   const file = {
-    url: process.env.URL_FILE,
+    url: "https://entrexangoeajuremasagrada.herokuapp.com/download",
     filename: "ENTRE_XANGO_E_A_JUREMA_SAGRADA.pdf",
   };
 
